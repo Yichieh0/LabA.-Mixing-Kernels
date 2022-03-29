@@ -8,6 +8,7 @@ This Lab is about mixing RTL kernels, it follows the Xilinx Vitis tutorials :
 https://github.com/Xilinx/Vitis-Tutorials/tree/2021.2/Hardware_Acceleration/Feature_Tutorials/01-rtl_kernel_workflow
 https://github.com/Xilinx/Vitis-Tutorials/tree/2021.2/Hardware_Acceleration/Feature_Tutorials/02-mixing-c-rtl-kernels
 
+
 	In the previous lab, we practiced how to do emulation using C++ kernels. Actually, we also can build kernels in C, OpenCL or RTL code. All types of Kernels will be packaged into object file (.xo). This is a brief introduction to how to put RTL kernels into your design.
 	There are two main aspects to this topic :
 ‧Mixing C++ and RTL Kernels
