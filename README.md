@@ -51,7 +51,7 @@ Remind that RTL kernel can only tested by doing hardware emulation. You should h
 
 - C++ kernel hardware emulation timeline trace
 
-![image](https://raw.githubusercontent.com/Yichieh0/LabA.-Mixing-Kernels/main/report/C%2B%2B%20kernel%20hardware%20emulation%20timeline%20trace.png?token=GHSAT0AAAAAABS6VEEFZCVPAVAJD6G66VXIYSCM2WA)
+![image](https://raw.githubusercontent.com/Yichieh0/LabA.-Mixing-Kernels/main/report/C%2B%2B%20kernel%20hardware%20emulation%20timeline%20trace.png?token=GHSAT0AAAAAABS6VEEE5KVYOHK4YRYNJOICYSCNCPQ)
 
 - Mixing kernels hardware emulation timeline trace
 
